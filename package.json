@@ -1,6 +1,6 @@
 {
   "name": "@nrk-org/models",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Internal Schema Package - which will help in maintaining one package for all the schemas",
   "main": "Address.js",
   "scripts": {
