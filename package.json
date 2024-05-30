@@ -1,0 +1,15 @@
+{
+  "name": "@nrk-org/models",
+  "version": "1.0.0",
+  "description": "Internal Schema Package - which will help in maintaining one package for all the schemas",
+  "main": "Address.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Naman Khater",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.4.0"
+  }
+}
