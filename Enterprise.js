@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const AddressSchema = require('./Address');
-const Enums = require('../utils/classes/Enums');
+const Enums = require('./utils/classess/Enums');
 const Schema = mongoose.Schema;
 
 const EnterpriseSchema = new Schema({
